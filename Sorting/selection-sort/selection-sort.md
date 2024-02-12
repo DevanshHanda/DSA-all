@@ -11,3 +11,8 @@
     <li><code>Average Time Complexity : O(n^2)</code></li>
     <li><code>Best Time Complexity : O(n^2)</code></li>
 </ul>
+
+-----
+
+### Animation
+![](https://github.com/DevanshHanda/DSA-all/blob/main/Sorting/selection-sort/Sorting_selection_sort_anim.gif)
