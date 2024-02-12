@@ -7,4 +7,5 @@ def selection_sort(a):
             a[min_idx],a[i]=a[i],a[min_idx]
     return a
 
+# Test the function
 print('selection_sort:',selection_sort([45,23,67,98,12])) 
