@@ -32,7 +32,7 @@ Below is a list of the main files and folders in this repository and their speci
 ```bash
 DSA-all # Root folder
 ├─ Sorting # All Sorting Algorithms
-│  └─ Sort # Generic folder for a Sorts
+│  └─ Sort # Generic folder for a Sort
 │     ├─ sort.py 
 │     ├─ sort.md # Info such as Time, animation, defination
 │     └─ sort.gif # Animation of the sort
